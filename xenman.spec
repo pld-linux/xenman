@@ -1,5 +1,5 @@
 Summary:	A graphical Xen management tool
-Summary(pl.UTF-8):   Graficzne narzędzie do zarządzania środowiskiem Xen
+Summary(pl.UTF-8):	Graficzne narzędzie do zarządzania środowiskiem Xen
 Name:		xenman
 Version:	0.4.2.1
 Release:	0.1
