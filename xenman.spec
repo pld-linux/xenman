@@ -1,5 +1,5 @@
 Summary:	A graphical Xen management tool
-Summary(pl):	Graficzne narzêdzie do zarz±dzania ¶rodowiskiem Xen
+Summary(pl.UTF-8):   Graficzne narzÄ™dzie do zarzÄ…dzania Å›rodowiskiem Xen
 Name:		xenman
 Version:	0.4.2.1
 Release:	0.1
@@ -20,13 +20,13 @@ also attempts to simplify certain aspects such as the creation of
 domains, as well as making the consoles available directly within the
 tool's user interface.
 
-%description -l pl
-XenMan to narzêdzie do zarz±dzania ¶rodowiskiem Xen z opartym na GTK+
-graficznym interfejsem pozwalaj±cym na wykonywanie standardowego
+%description -l pl.UTF-8
+XenMan to narzÄ™dzie do zarzÄ…dzania Å›rodowiskiem Xen z opartym na GTK+
+graficznym interfejsem pozwalajÄ…cym na wykonywanie standardowego
 zestawu operacji na domenach (uruchamianie, zatrzymywanie, pauzowanie,
-zabijanie, wy³±czanie, rebootowanie, snapshot itp.). Próbuje tak¿e
-upro¶ciæ pewne aspekty, takie jak tworzenie domen, a tak¿e
-udostêpnianie konsoli bezpo¶rednio w interfejsie u¿ytkownika.
+zabijanie, wyÅ‚Ä…czanie, rebootowanie, snapshot itp.). PrÃ³buje takÅ¼e
+uproÅ›ciÄ‡ pewne aspekty, takie jak tworzenie domen, a takÅ¼e
+udostÄ™pnianie konsoli bezpoÅ›rednio w interfejsie uÅ¼ytkownika.
 
 %prep
 %setup -q
